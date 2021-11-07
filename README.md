@@ -1,4 +1,4 @@
-# Physics-Collision-Simulator-SDL2
+# Physics-Collision-Simulator-SDL2-1.0v
 
 2D Simulator of elastic collisions between balls (equal mass and radius) in C/C++ using SDL2 library.  
 
